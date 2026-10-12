@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Station id="WS-01">
+  <observation date="15/07/2026" time="00:00">
+    <airTemperature unit="C">27.5</airTemperature>
+    <humidity unit="percent">74</humidity>
+    <windSpeed unit="mph">3.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="00:10">
+    <airTemperature unit="C">27.1</airTemperature>
+    <humidity unit="percent">77</humidity>
+    <windSpeed unit="mph">2.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="00:20">
+    <airTemperature unit="C">27.3</airTemperature>
+    <humidity unit="percent">77</humidity>
+    <windSpeed unit="mph">2.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="00:30">
+    <airTemperature unit="C">27.0</airTemperature>
+    <humidity unit="percent">77</humidity>
+    <windSpeed unit="mph">4.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="00:40">
+    <airTemperature unit="C">26.8</airTemperature>
+    <humidity unit="percent">78</humidity>
+    <windSpeed unit="mph">1.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="00:50">
+    <airTemperature unit="C">26.9</airTemperature>
+    <humidity unit="percent">79</humidity>
+    <windSpeed unit="mph">2.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="01:00">
+    <airTemperature unit="C">26.6</airTemperature>
+    <humidity unit="percent">79</humidity>
+    <windSpeed unit="mph">1.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="01:10">
+    <airTemperature unit="C">26.2</airTemperature>
+    <humidity unit="percent">79</humidity>
+    <windSpeed unit="mph">3.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="01:20">
+    <airTemperature unit="C">26.4</airTemperature>
+    <humidity unit="percent">81</humidity>
+    <windSpeed unit="mph">2.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="01:30">
+    <airTemperature unit="C">26.1</airTemperature>
+    <humidity unit="percent">80</humidity>
+    <windSpeed unit="mph">1.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="01:40">
+    <airTemperature unit="C">25.8</airTemperature>
+    <humidity unit="percent">84</humidity>
+    <windSpeed unit="mph">1.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="01:50">
+    <airTemperature unit="C">25.4</airTemperature>
+    <humidity unit="percent">83</humidity>
+    <windSpeed unit="mph">3.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="02:00">
+    <airTemperature unit="C">25.4</airTemperature>
+    <humidity unit="percent">85</humidity>
+    <windSpeed unit="mph">1.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="02:10">
+    <airTemperature unit="C">25.1</airTemperature>
+    <humidity unit="percent">87</humidity>
+    <windSpeed unit="mph">2.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="02:20">
+    <airTemperature unit="C">25.3</airTemperature>
+    <humidity unit="percent">84</humidity>
+    <windSpeed unit="mph">3.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="02:30">
+    <airTemperature unit="C">25.1</airTemperature>
+    <humidity unit="percent">86</humidity>
+    <windSpeed unit="mph">1.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="02:40">
+    <airTemperature unit="C">24.9</airTemperature>
+    <humidity unit="percent">87</humidity>
+    <windSpeed unit="mph">2.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="02:50">
+    <airTemperature unit="C">24.8</airTemperature>
+    <humidity unit="percent">87</humidity>
+    <windSpeed unit="mph">1.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="03:00">
+    <airTemperature unit="C">24.4</airTemperature>
+    <humidity unit="percent">86</humidity>
+    <windSpeed unit="mph">1.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="03:10">
+    <airTemperature unit="C">24.4</airTemperature>
+    <humidity unit="percent">87</humidity>
+    <windSpeed unit="mph">1.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="03:20">
+    <airTemperature unit="C">24.3</airTemperature>
+    <humidity unit="percent">88</humidity>
+    <windSpeed unit="mph">2.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="03:30">
+    <airTemperature unit="C">24.5</airTemperature>
+    <humidity unit="percent">88</humidity>
+    <windSpeed unit="mph">3.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="03:40">
+    <airTemperature unit="C">24.1</airTemperature>
+    <humidity unit="percent">90</humidity>
+    <windSpeed unit="mph">2.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="03:50">
+    <airTemperature unit="C">23.9</airTemperature>
+    <humidity unit="percent">92</humidity>
+    <windSpeed unit="mph">2.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="04:00">
+    <airTemperature unit="C">23.9</airTemperature>
+    <humidity unit="percent">91</humidity>
+    <windSpeed unit="mph">3.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="04:10">
+    <airTemperature unit="C">23.8</airTemperature>
+    <humidity unit="percent">92</humidity>
+    <windSpeed unit="mph">3.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="04:20">
+    <airTemperature unit="C">23.9</airTemperature>
+    <humidity unit="percent">90</humidity>
+    <windSpeed unit="mph">4.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="04:30">
+    <airTemperature unit="C">23.8</airTemperature>
+    <humidity unit="percent">91</humidity>
+    <windSpeed unit="mph">2.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="04:40">
+    <airTemperature unit="C">23.6</airTemperature>
+    <humidity unit="percent">91</humidity>
+    <windSpeed unit="mph">1.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="04:50">
+    <airTemperature unit="C">23.7</airTemperature>
+    <humidity unit="percent">93</humidity>
+    <windSpeed unit="mph">4.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="05:00">
+    <airTemperature unit="C">23.7</airTemperature>
+    <humidity unit="percent">90</humidity>
+    <windSpeed unit="mph">2.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="05:10">
+    <airTemperature unit="C">23.5</airTemperature>
+    <humidity unit="percent">90</humidity>
+    <windSpeed unit="mph">4.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="05:20">
+    <airTemperature unit="C">23.5</airTemperature>
+    <humidity unit="percent">91</humidity>
+    <windSpeed unit="mph">2.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="05:30">
+    <airTemperature unit="C">23.6</airTemperature>
+    <humidity unit="percent">92</humidity>
+    <windSpeed unit="mph">2.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="05:40">
+    <airTemperature unit="C">23.4</airTemperature>
+    <humidity unit="percent">91</humidity>
+    <windSpeed unit="mph">3.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="05:50">
+    <airTemperature unit="C">23.7</airTemperature>
+    <humidity unit="percent">93</humidity>
+    <windSpeed unit="mph">1.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="06:00">
+    <airTemperature unit="C">23.4</airTemperature>
+    <humidity unit="percent">93</humidity>
+    <windSpeed unit="mph">2.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="06:10">
+    <airTemperature unit="C">23.8</airTemperature>
+    <humidity unit="percent">91</humidity>
+    <windSpeed unit="mph">2.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="06:20">
+    <airTemperature unit="C">23.8</airTemperature>
+    <humidity unit="percent">92</humidity>
+    <windSpeed unit="mph">2.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="06:30">
+    <airTemperature unit="C">23.8</airTemperature>
+    <humidity unit="percent">90</humidity>
+    <windSpeed unit="mph">3.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="06:40">
+    <airTemperature unit="C">23.9</airTemperature>
+    <humidity unit="percent">88</humidity>
+    <windSpeed unit="mph">4.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="06:50">
+    <airTemperature unit="C">23.9</airTemperature>
+    <humidity unit="percent">91</humidity>
+    <windSpeed unit="mph">3.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="07:00">
+    <airTemperature unit="C">23.9</airTemperature>
+    <humidity unit="percent">92</humidity>
+    <windSpeed unit="mph">3.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="07:10">
+    <airTemperature unit="C">23.9</airTemperature>
+    <humidity unit="percent">89</humidity>
+    <windSpeed unit="mph">4.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="07:20">
+    <airTemperature unit="C">24.1</airTemperature>
+    <humidity unit="percent">91</humidity>
+    <windSpeed unit="mph">3.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="07:30">
+    <airTemperature unit="C">24.0</airTemperature>
+    <humidity unit="percent">89</humidity>
+    <windSpeed unit="mph">3.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="07:40">
+    <airTemperature unit="C">24.5</airTemperature>
+    <humidity unit="percent">89</humidity>
+    <windSpeed unit="mph">2.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="07:50">
+    <airTemperature unit="C">24.2</airTemperature>
+    <humidity unit="percent">90</humidity>
+    <windSpeed unit="mph">1.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="08:00">
+    <airTemperature unit="C">24.4</airTemperature>
+    <humidity unit="percent">87</humidity>
+    <windSpeed unit="mph">1.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="08:10">
+    <airTemperature unit="C">24.9</airTemperature>
+    <humidity unit="percent">86</humidity>
+    <windSpeed unit="mph">3.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="08:20">
+    <airTemperature unit="C">25.3</airTemperature>
+    <humidity unit="percent">83</humidity>
+    <windSpeed unit="mph">1.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="08:30">
+    <airTemperature unit="C">25.3</airTemperature>
+    <humidity unit="percent">84</humidity>
+    <windSpeed unit="mph">5.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="08:40">
+    <airTemperature unit="C">25.6</airTemperature>
+    <humidity unit="percent">84</humidity>
+    <windSpeed unit="mph">5.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="08:50">
+    <airTemperature unit="C">25.9</airTemperature>
+    <humidity unit="percent">81</humidity>
+    <windSpeed unit="mph">3.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="09:00">
+    <airTemperature unit="C">25.9</airTemperature>
+    <humidity unit="percent">84</humidity>
+    <windSpeed unit="mph">2.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="09:10">
+    <airTemperature unit="C">26.1</airTemperature>
+    <humidity unit="percent">80</humidity>
+    <windSpeed unit="mph">3.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="09:20">
+    <airTemperature unit="C">26.5</airTemperature>
+    <humidity unit="percent">80</humidity>
+    <windSpeed unit="mph">3.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="09:30">
+    <airTemperature unit="C">26.7</airTemperature>
+    <humidity unit="percent">79</humidity>
+    <windSpeed unit="mph">5.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="09:40">
+    <airTemperature unit="C">27.1</airTemperature>
+    <humidity unit="percent">78</humidity>
+    <windSpeed unit="mph">4.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="09:50">
+    <airTemperature unit="C">27.5</airTemperature>
+    <humidity unit="percent">76</humidity>
+    <windSpeed unit="mph">6.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="10:00">
+    <airTemperature unit="C">27.7</airTemperature>
+    <humidity unit="percent">76</humidity>
+    <windSpeed unit="mph">5.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="10:10">
+    <airTemperature unit="C">28.1</airTemperature>
+    <humidity unit="percent">72</humidity>
+    <windSpeed unit="mph">5.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="10:20">
+    <airTemperature unit="C">28.1</airTemperature>
+    <humidity unit="percent">73</humidity>
+    <windSpeed unit="mph">6.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="10:30">
+    <airTemperature unit="C">28.5</airTemperature>
+    <humidity unit="percent">69</humidity>
+    <windSpeed unit="mph">7.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="10:40">
+    <airTemperature unit="C">28.6</airTemperature>
+    <humidity unit="percent">69</humidity>
+    <windSpeed unit="mph">6.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="10:50">
+    <airTemperature unit="C">29.4</airTemperature>
+    <humidity unit="percent">67</humidity>
+    <windSpeed unit="mph">6.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="11:00">
+    <airTemperature unit="C">29.5</airTemperature>
+    <humidity unit="percent">65</humidity>
+    <windSpeed unit="mph">7.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="11:10">
+    <airTemperature unit="C">30.0</airTemperature>
+    <humidity unit="percent">64</humidity>
+    <windSpeed unit="mph">5.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="11:20">
+    <airTemperature unit="C">30.2</airTemperature>
+    <humidity unit="percent">65</humidity>
+    <windSpeed unit="mph">7.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="11:30">
+    <airTemperature unit="C">30.4</airTemperature>
+    <humidity unit="percent">62</humidity>
+    <windSpeed unit="mph">5.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="11:40">
+    <airTemperature unit="C">30.8</airTemperature>
+    <humidity unit="percent">61</humidity>
+    <windSpeed unit="mph">7.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="11:50">
+    <airTemperature unit="C">31.0</airTemperature>
+    <humidity unit="percent">59</humidity>
+    <windSpeed unit="mph">7.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="12:00">
+    <airTemperature unit="C">31.1</airTemperature>
+    <humidity unit="percent">59</humidity>
+    <windSpeed unit="mph">6.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="12:10">
+    <airTemperature unit="C">31.7</airTemperature>
+    <humidity unit="percent">57</humidity>
+    <windSpeed unit="mph">8.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="12:20">
+    <airTemperature unit="C">31.7</airTemperature>
+    <humidity unit="percent">59</humidity>
+    <windSpeed unit="mph">9.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="12:30">
+    <airTemperature unit="C">31.7</airTemperature>
+    <humidity unit="percent">56</humidity>
+    <windSpeed unit="mph">7.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="12:40">
+    <airTemperature unit="C">32.2</airTemperature>
+    <humidity unit="percent">56</humidity>
+    <windSpeed unit="mph">9.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="12:50">
+    <airTemperature unit="C">32.4</airTemperature>
+    <humidity unit="percent">56</humidity>
+    <windSpeed unit="mph">7.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="13:00">
+    <airTemperature unit="C">32.8</airTemperature>
+    <humidity unit="percent">52</humidity>
+    <windSpeed unit="mph">7.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="13:10">
+    <airTemperature unit="C">32.9</airTemperature>
+    <humidity unit="percent">53</humidity>
+    <windSpeed unit="mph">8.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="13:20">
+    <airTemperature unit="C">32.8</airTemperature>
+    <humidity unit="percent">53</humidity>
+    <windSpeed unit="mph">9.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="13:30">
+    <airTemperature unit="C">33.3</airTemperature>
+    <humidity unit="percent">52</humidity>
+    <windSpeed unit="mph">9.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="13:40">
+    <airTemperature unit="C">33.8</airTemperature>
+    <humidity unit="percent">48</humidity>
+    <windSpeed unit="mph">7.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="13:50">
+    <airTemperature unit="C">33.7</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">8.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="14:00">
+    <airTemperature unit="C">33.8</airTemperature>
+    <humidity unit="percent">50</humidity>
+    <windSpeed unit="mph">7.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="14:10">
+    <airTemperature unit="C">34.0</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">9.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="14:20">
+    <airTemperature unit="C">34.3</airTemperature>
+    <humidity unit="percent">46</humidity>
+    <windSpeed unit="mph">8.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="14:30">
+    <airTemperature unit="C">34.1</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">7.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="14:40">
+    <airTemperature unit="C">34.1</airTemperature>
+    <humidity unit="percent">48</humidity>
+    <windSpeed unit="mph">8.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="14:50">
+    <airTemperature unit="C">34.1</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">8.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="15:00">
+    <airTemperature unit="C">34.4</airTemperature>
+    <humidity unit="percent">47</humidity>
+    <windSpeed unit="mph">7.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="15:10">
+    <airTemperature unit="C">34.3</airTemperature>
+    <humidity unit="percent">48</humidity>
+    <windSpeed unit="mph">9.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="15:20">
+    <airTemperature unit="C">34.5</airTemperature>
+    <humidity unit="percent">46</humidity>
+    <windSpeed unit="mph">8.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="15:30">
+    <airTemperature unit="C">34.7</airTemperature>
+    <humidity unit="percent">44</humidity>
+    <windSpeed unit="mph">8.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="15:40">
+    <airTemperature unit="C">34.2</airTemperature>
+    <humidity unit="percent">48</humidity>
+    <windSpeed unit="mph">7.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="15:50">
+    <airTemperature unit="C">34.6</airTemperature>
+    <humidity unit="percent">47</humidity>
+    <windSpeed unit="mph">9.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="16:00">
+    <airTemperature unit="C">34.5</airTemperature>
+    <humidity unit="percent">46</humidity>
+    <windSpeed unit="mph">6.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="16:10">
+    <airTemperature unit="C">34.3</airTemperature>
+    <humidity unit="percent">46</humidity>
+    <windSpeed unit="mph">7.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="16:20">
+    <airTemperature unit="C">34.2</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">8.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="16:30">
+    <airTemperature unit="C">34.4</airTemperature>
+    <humidity unit="percent">47</humidity>
+    <windSpeed unit="mph">8.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="16:40">
+    <airTemperature unit="C">34.4</airTemperature>
+    <humidity unit="percent">48</humidity>
+    <windSpeed unit="mph">6.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="16:50">
+    <airTemperature unit="C">34.3</airTemperature>
+    <humidity unit="percent">46</humidity>
+    <windSpeed unit="mph">7.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="17:00">
+    <airTemperature unit="C">34.3</airTemperature>
+    <humidity unit="percent">47</humidity>
+    <windSpeed unit="mph">6.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="17:10">
+    <airTemperature unit="C">34.0</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">7.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="17:20">
+    <airTemperature unit="C">33.9</airTemperature>
+    <humidity unit="percent">47</humidity>
+    <windSpeed unit="mph">6.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="17:30">
+    <airTemperature unit="C">33.7</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">4.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="17:40">
+    <airTemperature unit="C">33.7</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">5.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="17:50">
+    <airTemperature unit="C">33.9</airTemperature>
+    <humidity unit="percent">47</humidity>
+    <windSpeed unit="mph">6.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="18:00">
+    <airTemperature unit="C">34.0</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">4.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="18:10">
+    <airTemperature unit="C">33.8</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">5.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="18:20">
+    <airTemperature unit="C">33.7</airTemperature>
+    <humidity unit="percent">49</humidity>
+    <windSpeed unit="mph">5.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="18:30">
+    <airTemperature unit="C">33.5</airTemperature>
+    <humidity unit="percent">50</humidity>
+    <windSpeed unit="mph">5.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="18:40">
+    <airTemperature unit="C">33.2</airTemperature>
+    <humidity unit="percent">53</humidity>
+    <windSpeed unit="mph">4.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="18:50">
+    <airTemperature unit="C">33.2</airTemperature>
+    <humidity unit="percent">50</humidity>
+    <windSpeed unit="mph">3.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="19:00">
+    <airTemperature unit="C">33.0</airTemperature>
+    <humidity unit="percent">53</humidity>
+    <windSpeed unit="mph">4.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="19:10">
+    <airTemperature unit="C">33.1</airTemperature>
+    <humidity unit="percent">51</humidity>
+    <windSpeed unit="mph">4.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="19:20">
+    <airTemperature unit="C">32.5</airTemperature>
+    <humidity unit="percent">53</humidity>
+    <windSpeed unit="mph">3.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="19:30">
+    <airTemperature unit="C">32.5</airTemperature>
+    <humidity unit="percent">53</humidity>
+    <windSpeed unit="mph">2.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="19:40">
+    <airTemperature unit="C">32.2</airTemperature>
+    <humidity unit="percent">57</humidity>
+    <windSpeed unit="mph">1.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="19:50">
+    <airTemperature unit="C">32.2</airTemperature>
+    <humidity unit="percent">55</humidity>
+    <windSpeed unit="mph">1.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="20:00">
+    <airTemperature unit="C">32.2</airTemperature>
+    <humidity unit="percent">54</humidity>
+    <windSpeed unit="mph">1.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="20:10">
+    <airTemperature unit="C">31.9</airTemperature>
+    <humidity unit="percent">57</humidity>
+    <windSpeed unit="mph">2.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="20:20">
+    <airTemperature unit="C">31.9</airTemperature>
+    <humidity unit="percent">56</humidity>
+    <windSpeed unit="mph">2.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="20:30">
+    <airTemperature unit="C">31.4</airTemperature>
+    <humidity unit="percent">58</humidity>
+    <windSpeed unit="mph">1.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="20:40">
+    <airTemperature unit="C">31.4</airTemperature>
+    <humidity unit="percent">57</humidity>
+    <windSpeed unit="mph">4.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="20:50">
+    <airTemperature unit="C">31.5</airTemperature>
+    <humidity unit="percent">58</humidity>
+    <windSpeed unit="mph">1.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="21:00">
+    <airTemperature unit="C">30.9</airTemperature>
+    <humidity unit="percent">61</humidity>
+    <windSpeed unit="mph">2.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="21:10">
+    <airTemperature unit="C">31.0</airTemperature>
+    <humidity unit="percent">62</humidity>
+    <windSpeed unit="mph">1.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="21:20">
+    <airTemperature unit="C">30.5</airTemperature>
+    <humidity unit="percent">64</humidity>
+    <windSpeed unit="mph">4.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="21:30">
+    <airTemperature unit="C">30.7</airTemperature>
+    <humidity unit="percent">63</humidity>
+    <windSpeed unit="mph">1.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="21:40">
+    <airTemperature unit="C">30.4</airTemperature>
+    <humidity unit="percent">63</humidity>
+    <windSpeed unit="mph">1.5</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="21:50">
+    <airTemperature unit="C">30.3</airTemperature>
+    <humidity unit="percent">64</humidity>
+    <windSpeed unit="mph">3.9</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="22:00">
+    <airTemperature unit="C">29.9</airTemperature>
+    <humidity unit="percent">67</humidity>
+    <windSpeed unit="mph">4.2</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="22:10">
+    <airTemperature unit="C">29.7</airTemperature>
+    <humidity unit="percent">66</humidity>
+    <windSpeed unit="mph">2.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="22:20">
+    <airTemperature unit="C">29.4</airTemperature>
+    <humidity unit="percent">66</humidity>
+    <windSpeed unit="mph">3.0</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="22:30">
+    <airTemperature unit="C">29.2</airTemperature>
+    <humidity unit="percent">67</humidity>
+    <windSpeed unit="mph">2.6</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="22:40">
+    <airTemperature unit="C">29.3</airTemperature>
+    <humidity unit="percent">66</humidity>
+    <windSpeed unit="mph">2.1</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="22:50">
+    <airTemperature unit="C">28.7</airTemperature>
+    <humidity unit="percent">72</humidity>
+    <windSpeed unit="mph">3.3</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="23:00">
+    <airTemperature unit="C">28.9</airTemperature>
+    <humidity unit="percent">71</humidity>
+    <windSpeed unit="mph">3.4</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="23:10">
+    <airTemperature unit="C">28.3</airTemperature>
+    <humidity unit="percent">70</humidity>
+    <windSpeed unit="mph">2.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="23:20">
+    <airTemperature unit="C">28.1</airTemperature>
+    <humidity unit="percent">74</humidity>
+    <windSpeed unit="mph">1.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="23:30">
+    <airTemperature unit="C">28.1</airTemperature>
+    <humidity unit="percent">74</humidity>
+    <windSpeed unit="mph">3.8</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="23:40">
+    <airTemperature unit="C">27.8</airTemperature>
+    <humidity unit="percent">75</humidity>
+    <windSpeed unit="mph">2.7</windSpeed>
+  </observation>
+  <observation date="15/07/2026" time="23:50">
+    <airTemperature unit="C">27.9</airTemperature>
+    <humidity unit="percent">72</humidity>
+    <windSpeed unit="mph">3.9</windSpeed>
+  </observation>
+</Station>

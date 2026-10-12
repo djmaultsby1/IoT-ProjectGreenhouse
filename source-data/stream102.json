@@ -1,0 +1,270 @@
+{
+  "Log": [
+    {
+      "date": "07/15/2026",
+      "time": "5:00 AM",
+      "zone": 1,
+      "flowRateGpm": 3.57,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:05 AM",
+      "zone": 1,
+      "flowRateGpm": 4.11,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:10 AM",
+      "zone": 1,
+      "flowRateGpm": 4.24,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:15 AM",
+      "zone": 1,
+      "flowRateGpm": 4.35,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:20 AM",
+      "zone": 1,
+      "flowRateGpm": 4.25,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:25 AM",
+      "zone": 1,
+      "flowRateGpm": 4.06,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:30 AM",
+      "zone": 1,
+      "flowRateGpm": 0.0,
+      "pumpStatus": "off"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:45 AM",
+      "zone": 2,
+      "flowRateGpm": 3.4,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:50 AM",
+      "zone": 2,
+      "flowRateGpm": 4.15,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:55 AM",
+      "zone": 2,
+      "flowRateGpm": 3.93,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:00 AM",
+      "zone": 2,
+      "flowRateGpm": 4.04,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:05 AM",
+      "zone": 2,
+      "flowRateGpm": 3.88,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:10 AM",
+      "zone": 2,
+      "flowRateGpm": 3.9,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:15 AM",
+      "zone": 2,
+      "flowRateGpm": 0.0,
+      "pumpStatus": "off"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:30 AM",
+      "zone": 3,
+      "flowRateGpm": 1.95,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:35 AM",
+      "zone": 3,
+      "flowRateGpm": 2.3,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:40 AM",
+      "zone": 3,
+      "flowRateGpm": 2.16,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:45 AM",
+      "zone": 3,
+      "flowRateGpm": 2.39,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:50 AM",
+      "zone": 3,
+      "flowRateGpm": 2.19,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "6:55 AM",
+      "zone": 3,
+      "flowRateGpm": 2.31,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "7:00 AM",
+      "zone": 3,
+      "flowRateGpm": 0.0,
+      "pumpStatus": "off"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "1:05 PM",
+      "zone": 2,
+      "flowRateGpm": 3.4,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "1:10 PM",
+      "zone": 2,
+      "flowRateGpm": 4.1,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "1:15 PM",
+      "zone": 2,
+      "flowRateGpm": 4.14,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "1:20 PM",
+      "zone": 2,
+      "flowRateGpm": 3.86,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "1:25 PM",
+      "zone": 2,
+      "flowRateGpm": 0.0,
+      "pumpStatus": "off"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "4:00 PM",
+      "zone": 1,
+      "flowRateGpm": 3.57,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "4:05 PM",
+      "zone": 1,
+      "flowRateGpm": 4.13,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "4:10 PM",
+      "zone": 1,
+      "flowRateGpm": 4.09,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "4:15 PM",
+      "zone": 1,
+      "flowRateGpm": 0.0,
+      "pumpStatus": "off"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "4:30 PM",
+      "zone": 2,
+      "flowRateGpm": 3.4,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "4:35 PM",
+      "zone": 2,
+      "flowRateGpm": 4.09,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "4:40 PM",
+      "zone": 2,
+      "flowRateGpm": 4.14,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "4:45 PM",
+      "zone": 2,
+      "flowRateGpm": 0.0,
+      "pumpStatus": "off"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:00 PM",
+      "zone": 3,
+      "flowRateGpm": 1.95,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:05 PM",
+      "zone": 3,
+      "flowRateGpm": 2.27,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:10 PM",
+      "zone": 3,
+      "flowRateGpm": 2.29,
+      "pumpStatus": "on"
+    },
+    {
+      "date": "07/15/2026",
+      "time": "5:15 PM",
+      "zone": 3,
+      "flowRateGpm": 0.0,
+      "pumpStatus": "off"
+    }
+  ]
+}
